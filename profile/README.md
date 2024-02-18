@@ -3,6 +3,8 @@
 <br><br>
 
 The `JuliaAPlavin` github organization hosts public Julia packages developed by Alexander _(Sasha)_ Plavin.
-<br>
+
+These packages were originally hosted on gitlab, and were moved to github recently.
+<br><br>
 
 See also: [@aplavin](https://github.com/aplavin), https://plav.in.
